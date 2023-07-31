@@ -1,0 +1,26 @@
+ /* Selector {
+	Property: value; */
+body {
+	background-image: url(bgpicture.jpg);
+	background-size:cover;
+}
+p{
+	line-height:20px;
+	font-style: italic;
+}
+h2 {
+	color: black;
+	text-align: center;
+	cursor: pointer;
+}
+
+p{
+	color: black;
+}
+p{
+	color: black	;
+}
+li {
+	list-style: none;
+	display: inline-block;
+}
